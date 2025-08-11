@@ -1,0 +1,7 @@
+# Redirects for Vercel deployment
+/home /index.html 301
+/Home /index.html 301
+/HOME /index.html 301
+
+# Fallback for any missing pages
+/* /index.html 404
